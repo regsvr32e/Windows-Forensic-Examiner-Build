@@ -1,4 +1,4 @@
-# Windows-Forensic-Examiner-Build (Binaries and Scripts Collection)
+# Windows-Forensic-Examiner-Build 
 Files for building an offline Windows forensic examiner
 
 
@@ -11,29 +11,31 @@ This repository contains the following third-party binaries (all are bundled *as
 
 ### Included Tools
 
+
 - **jq**  
-  - **License:** MIT (code). MIT license included. :contentReference[oaicite:5]{index=5}
+  - **License:** MIT (code); documentation is CC-BY-3.0. MIT license text should be included. 
 
 - **7-Zip**  
-  - **License:** LGPL-2.1-or-later (with noted component restrictions, e.g., unRAR) and some BSD components; LZMA SDK is public domain. License text included. :contentReference[oaicite:6]{index=6}
+  - **License:** Mostly LGPL-2.1-or-later (with the “unRAR restriction” on some parts) plus some BSD components; the LZMA SDK is public domain. Redistribution in binary form must reproduce the relevant license information. 
 
 - **ILSpy**  
-  - **License:** MIT. MIT license included. 
+  - **License:** MIT. MIT license text included. 
 
-- **dnSpy**  
-  - **License:** GPLv3. Comply with GPLv3 when redistributing the binary—full license text included and a notice in `dnspy/README_LICENSE_NOTICE.md`. :contentReference[oaicite:8]{index=8}
+- **x64dbg**  
+  - **License:** GPLv3. Redistribution requires compliance with GPLv3 (include the full license text and source availability notice). 
 
 - **NirSoft Utilities** (e.g., BrowsingHistoryView, ChromeCacheView)  
-  - **License/Terms:** Freeware. Executables are unmodified; redistribution is allowed only non-commercially and must respect their original terms. A summary notice is in `third_party_licenses/nirsoft_freeware_notice.txt`. 
+  - **License/Terms:** Freeware. Executables must remain unmodified; redistribution is allowed only under the original terms (non-commercial, no alteration). A summary notice should live in `third_party_licenses/nirsoft_freeware_notice.txt`. 
 
 - **EZ Tools (Eric Zimmerman)**  
-  - **License:** MIT. Includes forensic collection and analysis utilities. MIT license included. :contentReference[oaicite:10]{index=10}
+  - **License:** MIT. Include the MIT license text. 
 
 - **Detect It Easy (DiE)**  
-  - **License:** MIT. MIT license included. :contentReference[oaicite:11]{index=11}
+  - **License:** MIT. Include the MIT license text. 
 
 - **PEStudio (Basic / Free edition)**  
-  - **License/Terms:** Offered “as-is” with no warranty. Free/basic edition is acceptable to bundle; do not include the professional edition without appropriate paid licensing. Author’s disclaimer included. :contentReference[oaicite:12]{index=12}
+  - **License/Terms:** Offered “as-is” with no warranty for the basic (free) version. Do not include the professional edition without a valid license. Include the author’s disclaimer and clarify only the free/basic edition is bundled. 
+
 
 
 ## Integrity
