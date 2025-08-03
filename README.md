@@ -21,8 +21,7 @@ This repository contains the following third-party binaries (all are bundled *as
 - **ILSpy**  
   - **License:** MIT. MIT license text included. 
 
-- **x64dbg**  
-  - **License:** GPLv3. Redistribution requires compliance with GPLv3 (include the full license text and source availability notice). 
+- **AccessData**  
 
 - **NirSoft Utilities** (e.g., BrowsingHistoryView, ChromeCacheView)  
   - **License/Terms:** Freeware. Executables must remain unmodified; redistribution is allowed only under the original terms (non-commercial, no alteration). A summary notice should live in `third_party_licenses/nirsoft_freeware_notice.txt`. 
