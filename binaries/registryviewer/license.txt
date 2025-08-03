@@ -2,5 +2,4 @@ Registry Viewer 2.0.0 is a proprietary tool from AccessData (part of the FTK eco
 **This repository does not include the binary**. You must obtain your own licensed copy directly from AccessData or via your organization's licensed FTK distribution.
 
 If you have a valid license, you may drop your copy here for offline/internal use.  
-Do not redistribute the binary unless your license explicitly permits it.  
 Refer to the End User License Agreement (EULA) provided with your Registry Viewer/FTK license for the exact terms and any redistribution restrictions.
